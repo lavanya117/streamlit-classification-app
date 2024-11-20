@@ -1,6 +1,6 @@
 matplotlib
 seaborn
-sklearn
+scikit-learn
 numpy
 pandas
-imblearn
+imbalanced-learn
