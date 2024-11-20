@@ -1,2 +1,6 @@
 matplotlib
 seaborn
+sklearn
+numpy
+pandas
+imblearn
